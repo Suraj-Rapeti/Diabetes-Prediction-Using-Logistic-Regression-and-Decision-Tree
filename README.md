@@ -34,7 +34,6 @@ This project uses machine learning techniques to predict whether a patient is li
 ## 🚀 How to Run
  **Clone the repository**  
    ```bash
-   git clone https://github.com/Suraj-Rapeti/diabetes-prediction-ml.git
-   cd diabetes-prediction-ml
+   git clone https://github.com/Suraj-Rapeti/Diabetes-Prediction-Using-Logistic-Regression-and-Decision-Tree.git
 
 
